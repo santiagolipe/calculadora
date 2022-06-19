@@ -1,6 +1,6 @@
 # <b>CALCULADORA</b>
 
-![Logo](https://github.com/santiagolipe/Webby-Hobbies/blob/main/Readme/logo.png)<br>
+![Logo](https://github.com/santiagolipe/calculadora/blob/main/src/calculadora.png)<br>
 
 
 ## Descrição
