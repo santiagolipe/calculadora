@@ -4,7 +4,7 @@
 
 
 ## Descrição
-<p> Calculadora simples </p>
+<p> Calculadora simples, usada para testar o conhecimento de HTML básico.</p>
 
 ## Tecnologias utilizadas 
 
