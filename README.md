@@ -1,6 +1,6 @@
 # <b>CALCULADORA</b>
 
-![Logo] <img src="https://github.com/santiagolipe/calculadora/blob/main/src/calculadora.png" style="width:10px;><br>
+<img src="https://github.com/santiagolipe/calculadora/blob/main/src/calculadora.png" style="width:200px;"><br>
 
 
 ## Descrição
@@ -22,33 +22,12 @@ As tecnologias usadas no projeto foram:
 
 ## Vamos começar?
 
-* Para criar e carregar a database, iniciando a execução do backend, execute a classe main <b> ApiCrudApplication</b>
-  
-* Para executar a aplicação, execute o comando no terminal do diretorio do projeto.
-  <p><b>ng serve -o</b><br> 
-  
+* Para iniciar, basta baixar o projeto, acessar o diretorio raiz e executar o arquivo <b>"calculadora.html"</b>
 
-## Como usar o projeto desenvolvido?
+## TELA DA APLICAÇÃO
 
-### 1 - Quando realizar o primeiro acesso, a tela inicial será essa <3
 
-![Homepage](https://github.com/santiagolipe/Webby-Hobbies/blob/main/Readme/Telas/Tela%20-%20Home.JPG)
-
-### 2 - Escolhendo a opção <b>CADASTRO DE CLIENTE</b>.
-
-![cadastro](https://github.com/santiagolipe/Webby-Hobbies/blob/main/Readme/Telas/Tela%20-%20Cadastro%20de%20cliente.PNG)
-
-### 3 -  Se a escolha for <b> LISTAR TODOS OS CLIENTES </b>:D
-
-![listar](https://github.com/santiagolipe/Webby-Hobbies/blob/main/Readme/Telas/Tela%20-%20Listagem%20de%20clientes.JPG)
-
-### 4 - Pressionando o botão <b>VISUALIZAR</b>.
-
-![visualizar](https://github.com/santiagolipe/Webby-Hobbies/blob/main/Readme/Telas/Tela%20-%20Visualiza%C3%A7%C3%A3o%20de%20dados%20do%20cliente.JPG)
-
-### 5 - Pressionando o botão <b>EDITAR</b>.
-
-![editar](https://github.com/santiagolipe/Webby-Hobbies/blob/main/Readme/Telas/Tela%20-%20Edi%C3%A7%C3%A3o%20de%20cliente.JPG)
+![inicio](https://github.com/santiagolipe/calculadora/blob/main/src/tela.JPG)
 
 
 ## Links
