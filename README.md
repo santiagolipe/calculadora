@@ -1,6 +1,6 @@
 # <b>CALCULADORA</b>
 
-![Logo](https://github.com/santiagolipe/calculadora/blob/main/src/calculadora.png)<br>
+![Logo] <img src="https://github.com/santiagolipe/calculadora/blob/main/src/calculadora.png" style="width:10px;><br>
 
 
 ## Descrição
